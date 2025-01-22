@@ -1,5 +1,4 @@
   <h1>Hackathon Journey: E-Commerce Website Development 🚀</h1>
-
   <h2>Overview</h2>
   <p>
     This document showcases our incredible journey during a 7-day hackathon where we built a fully functional
