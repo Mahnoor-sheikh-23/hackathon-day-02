@@ -123,4 +123,4 @@
   <hr>
 
   <h2>Live Deployment 🌐</h2>
-  <p>Check out the live version of our project here: <a href="#">Deployed URL</a></p>
+  <p>Check out the live version of our project here: <a href="https://shoe-nike-figma-hackathon.netlify.app/">Deployed URL</a></p>
